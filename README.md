@@ -4,4 +4,4 @@
 - 🌱 I'm also learning/reading about technical writing
 - 💞️ I’m looking to collaborate on and in every interesting project
 - 📫 You can reach me via harunaibrahimoye@gmail.com
-- 🐦 or via @OyeIbrahim_
+- 🐦 or DM @OyeIbrahim_
