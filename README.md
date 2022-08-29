@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Oye Ibrahim
-- 👀 I’m interested in frontend development, poetry and technical writing
+- 👀 A Microbiologist, who is also passionate about web-development,
+teechnical writing & poetry. I love when my code breathe life into the wb.
 - 🌱 I’m currently learning HTML, CSS, Sass, JavaScript and React JS
 - 🌱 I'm also learning/reading about technical writing
 - 💞️ I’m looking to collaborate on and in every interesting project
